@@ -6,6 +6,14 @@
 - Salt used: 30 g
 - NaCl concentration: 3.00% (w/w)
 
+**Electrodes:**
+- Zinc electrode: a single galvanized bolt (zinc-coated steel), ~31 mm immersed in electrolyte
+- Copper electrode: multiple strands of copper wire (stripped from electrical cable and
+  twisted together into a bundle), ~28 mm immersed in electrolyte
+
+**Measurement device:**
+- Rutter RT-9005 digital multimeter, DC voltage mode, 2000 mV range
+
 ## Observations
 
 | Time | Elapsed under load | Voltage at 15th min (mV) | Notes |
@@ -55,3 +63,6 @@ Note: The explanations below are qualitative interpretations based on general el
   cell voltage) were measured
 - Coating condition (zinc vs. exposed steel) assessed visually, not quantified
   (e.g. no microscopy or image analysis of surface coverage)
+- Electrode surface areas were not measured precisely; the copper electrode in
+particular (a twisted bundle of wire strands) has an irregular geometry that
+makes exact surface area calculation impractical without additional tools
