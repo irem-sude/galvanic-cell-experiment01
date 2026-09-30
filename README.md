@@ -66,3 +66,33 @@ Note: The explanations below are qualitative interpretations based on general el
 - Electrode surface areas were not measured precisely; the copper electrode in
 particular (a twisted bundle of wire strands) has an irregular geometry that
 makes exact surface area calculation impractical without additional tools
+
+## Photos
+
+**Copper electrode** — Close-up of the copper wire electrode
+
+<img src="01_copper_electrode.jpeg" width="400">
+
+<br>
+
+**Zinc electrode** — Galvanized bolt used as the zinc electrode
+
+<img src="02_zinc_electrode_bolt.jpeg" width="400">
+
+<br>
+
+**Voltage measurement (no load)** — Open-circuit voltage measured with a multimeter, no current draw
+
+<img src="03_voltage_measurement_no_load.jpeg" width="400">
+
+<br>
+
+**Fan test (under load)** — Powering a small DC motor/fan with the cell's output, drawing current
+
+<img src="04_fan_test_load.jpeg" width="400">
+
+<br>
+
+**Electrolyte after the experiment** — Color change in the electrolyte at the end of the experiment
+
+<img src="05_electrolyte_after_experiment.jpeg" width="400">
